@@ -60,8 +60,7 @@ Live Link:
 
 ## 👩‍💻 Author
 
-- Your Name  
-- GitHub: https://github.com/your-username  
+ U.D.Spoorthi Sri
 
 ---
 
